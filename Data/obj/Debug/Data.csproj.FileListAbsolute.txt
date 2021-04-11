@@ -1,6 +1,0 @@
-C:\Users\lbell\OneDrive\Desktop\ContactManager\Data\bin\Debug\Data.dll
-C:\Users\lbell\OneDrive\Desktop\ContactManager\Data\bin\Debug\Data.pdb
-C:\Users\lbell\OneDrive\Desktop\ContactManager\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
-C:\Users\lbell\OneDrive\Desktop\ContactManager\Data\obj\Debug\Data.dll
-C:\Users\lbell\OneDrive\Desktop\ContactManager\Data\obj\Debug\Data.pdb
-C:\Users\lbell\OneDrive\Desktop\ContactManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
