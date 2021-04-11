@@ -1,0 +1,9 @@
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\bin\Debug\Serialization.dll
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\bin\Debug\Serialization.pdb
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\bin\Debug\Data.dll
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\bin\Debug\Data.pdb
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\obj\Debug\Serialization.csproj.CopyComplete
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\obj\Debug\Serialization.dll
+C:\Users\lbell\OneDrive\Desktop\ContactManager\Serialization\obj\Debug\Serialization.pdb
